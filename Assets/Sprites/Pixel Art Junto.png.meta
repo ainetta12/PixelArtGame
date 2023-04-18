@@ -1,0 +1,2071 @@
+fileFormatVersion: 2
+guid: da5d3c0b0f23081458b3aabacefc26d0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pixel Art Junto_0
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 4535
+        width: 338
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47383f5984201ac448098006c89dc217
+      internalID: -1837557420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_1
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 4566
+        width: 242
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c04a8daab0ab344b1752a6d5171759
+      internalID: -467838949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_2
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 4241
+        width: 298
+        height: 667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c47f7607381d2a4aa2c0d3e2e6d7482
+      internalID: -1577165990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_3
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 4241
+        width: 314
+        height: 646
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee29117fe501da458d37ec547a7cad2
+      internalID: 1857808987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_4
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 4221
+        width: 400
+        height: 666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a671bfa9d53bde4bb28e01d543b4227
+      internalID: 632328136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_5
+      rect:
+        serializedVersion: 2
+        x: 3674
+        y: 4200
+        width: 438
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb04e7751aeb194380e84696ee6e5a0
+      internalID: -1976915139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_6
+      rect:
+        serializedVersion: 2
+        x: 4498
+        y: 4593
+        width: 284
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb8f68cebe85e0409926d8b760e4f4d
+      internalID: -230470847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_7
+      rect:
+        serializedVersion: 2
+        x: 4959
+        y: 4590
+        width: 284
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35e14d7b1b58bc4eb90c0df769b11ad
+      internalID: -353998119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_8
+      rect:
+        serializedVersion: 2
+        x: 5315
+        y: 4569
+        width: 253
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3c76ca0251dc5458ce1fcd829f88ed
+      internalID: 1026089435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_9
+      rect:
+        serializedVersion: 2
+        x: 5752
+        y: 4566
+        width: 257
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8691c4e51046b42488e1ba48f862f55d
+      internalID: 1219956886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_10
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 4228
+        width: 328
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae82cd04e4726a40a7baa1b77a1b0da
+      internalID: -584487589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_11
+      rect:
+        serializedVersion: 2
+        x: 4423
+        y: 4187
+        width: 376
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8cd20ce49a2d54e8433130fe8c0c32
+      internalID: -846354453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_12
+      rect:
+        serializedVersion: 2
+        x: 4847
+        y: 4187
+        width: 376
+        height: 355
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10583ea3432690c45b49348dc27aa984
+      internalID: -1667221188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_13
+      rect:
+        serializedVersion: 2
+        x: 5294
+        y: 4166
+        width: 294
+        height: 349
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56003fa8681036342a6dfae5767c6a99
+      internalID: -44822302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_14
+      rect:
+        serializedVersion: 2
+        x: 5694
+        y: 4166
+        width: 311
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125de175287924a49ac247d63fdd324c
+      internalID: -554236239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_15
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 4108
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce13b3aa8ea256489666abe8e3a4806
+      internalID: -1456565681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_16
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 4129
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35136e7ce2eb7247a98f6e96058303c
+      internalID: -1430696665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_17
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 4115
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17704c8d998e17c4980af2103f2861cf
+      internalID: 1667255370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_18
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 4108
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae05f95593e2e3248935f27f4c4f75bd
+      internalID: -390625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_19
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 4125
+        width: 65
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7928339586118264eaccf3c1e208cd68
+      internalID: -1526590181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_20
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 3790
+        width: 414
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceeb95fcadbfa4f4bb90b055fed2dc60
+      internalID: 1003798334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_21
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 4111
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44801cbdb3cbc2644bf20ab71f9d55e3
+      internalID: 136890554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_22
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 3506
+        width: 294
+        height: 670
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ef57937fd0afc42a8775ab331b6f64
+      internalID: -1041053022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_23
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 3506
+        width: 318
+        height: 646
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8321887b56f0e64dade74814bc69409
+      internalID: -768449476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_24
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 3486
+        width: 400
+        height: 666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4aec3432bf5a44db5b5e6658dca17c
+      internalID: 1376907045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_25
+      rect:
+        serializedVersion: 2
+        x: 3654
+        y: 3465
+        width: 441
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d0cd4263bbac54986a3c05d5f6b12a
+      internalID: -1094708704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_26
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 4077
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477809ed361b12c44b1e477bbd4bee50
+      internalID: -1974065288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_27
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 4064
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da3cf58e72a3824191d9e389e480c1e
+      internalID: -943796294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_28
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 3797
+        width: 393
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ab72aba263d314d93f0d251f65495a
+      internalID: -1892818211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_29
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 4101
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30007b86eea971547b0f4813371d0b17
+      internalID: 259561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_30
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 4101
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7f57f3a48c04044b8cb7272ed6a929
+      internalID: -746717902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_31
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 3797
+        width: 407
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c2f8ee9bbd67d4892471f64dbb44e9
+      internalID: -1097351823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_32
+      rect:
+        serializedVersion: 2
+        x: 4549
+        y: 3551
+        width: 226
+        height: 560
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43002deed4564a0448376979bd637553
+      internalID: -995446842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_33
+      rect:
+        serializedVersion: 2
+        x: 4987
+        y: 3548
+        width: 253
+        height: 563
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6349a5e205af9d5489be61a75a67d5d3
+      internalID: 1410240403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_34
+      rect:
+        serializedVersion: 2
+        x: 5370
+        y: 3537
+        width: 314
+        height: 574
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00307dc11bde43f42bc8dded4c720154
+      internalID: -1994613049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_35
+      rect:
+        serializedVersion: 2
+        x: 5746
+        y: 3548
+        width: 317
+        height: 557
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca25d504adde2b459e9f824956656e8
+      internalID: -1779569108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_36
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 3797
+        width: 407
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916871be74310e249a11d3e0aa4abd59
+      internalID: 948913341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_37
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 4023
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1948d667c65a4b42bffbdfa74b8615c
+      internalID: 932129605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_38
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 3982
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a072ef40d0f79943ae46e0f2253ab43
+      internalID: -1959717405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_39
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 3951
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88545004af5884042855f87d036232eb
+      internalID: 1480719224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_40
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 3930
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdc2349b2784ff41a530b6d9822a27b
+      internalID: -771228873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_41
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 3876
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29062cc38a990e346999e7e723a681d0
+      internalID: -315525650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_42
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 3879
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be1e55f17ef76449a671bff9c9b02a5
+      internalID: -1822282724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_43
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 3008
+        width: 1924
+        height: 645
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6f67c5e6bbc4a4abb80232c9169417
+      internalID: -1412602905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_44
+      rect:
+        serializedVersion: 2
+        x: 2427
+        y: 2697
+        width: 294
+        height: 669
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a25ccd617676e04ea1a5efcf93b5d55
+      internalID: -257450872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_45
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 2697
+        width: 318
+        height: 645
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e354fcf7505188f4fa44dd2afee75739
+      internalID: 1706251047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_46
+      rect:
+        serializedVersion: 2
+        x: 3209
+        y: 2679
+        width: 400
+        height: 663
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01197d935b34c094783e97f522afc9fe
+      internalID: 866674124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_47
+      rect:
+        serializedVersion: 2
+        x: 3667
+        y: 2656
+        width: 441
+        height: 686
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fec1aafb09f09d4d97279c751491ff9
+      internalID: -675175049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_48
+      rect:
+        serializedVersion: 2
+        x: 4505
+        y: 2943
+        width: 301
+        height: 550
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24151a9df3873040af150b53c3971ce
+      internalID: -794805001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_49
+      rect:
+        serializedVersion: 2
+        x: 4977
+        y: 2936
+        width: 294
+        height: 564
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416d3ebca80351c499b9c2813b10bef5
+      internalID: 585684176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_50
+      rect:
+        serializedVersion: 2
+        x: 5387
+        y: 2929
+        width: 287
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777bdcbc60391504c92ce9c27b455bce
+      internalID: -1614950778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_51
+      rect:
+        serializedVersion: 2
+        x: 5766
+        y: 2922
+        width: 301
+        height: 557
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce5fcda1b1e37c4297c696964af21f0
+      internalID: -1203629660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_52
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2331
+        width: 1921
+        height: 642
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e64f02b41d3bac42b7aefa1262bd41b
+      internalID: 253345279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_53
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 1859
+        width: 359
+        height: 749
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953481ad918b69d48a1684e1eae00f28
+      internalID: 1595028058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_54
+      rect:
+        serializedVersion: 2
+        x: 2847
+        y: 1859
+        width: 376
+        height: 708
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6de32a685fc694f86ec2c7de01de2a
+      internalID: -937858318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_55
+      rect:
+        serializedVersion: 2
+        x: 3261
+        y: 1859
+        width: 376
+        height: 728
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a2289a2c25e324e98d7c6786e4a258
+      internalID: -1341492948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_56
+      rect:
+        serializedVersion: 2
+        x: 3736
+        y: 1859
+        width: 379
+        height: 728
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce69f4821447b0347a8d44231acd5b87
+      internalID: -156288505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_57
+      rect:
+        serializedVersion: 2
+        x: 4378
+        y: 1859
+        width: 376
+        height: 728
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037a9d4419b7ac54f9cd1985bcb6995b
+      internalID: 1378688257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_58
+      rect:
+        serializedVersion: 2
+        x: 5195
+        y: 2550
+        width: 657
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2201dc3457bd4f948a955e5cf7c5f91a
+      internalID: -1323618736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_59
+      rect:
+        serializedVersion: 2
+        x: 5995
+        y: 2556
+        width: 656
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1587febb78644474b90826766c7c7175
+      internalID: -2031694477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_60
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1658
+        width: 1920
+        height: 642
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc331403b8fd6041b8fdf324885cfda
+      internalID: 1283814618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_61
+      rect:
+        serializedVersion: 2
+        x: 4173
+        y: 2129
+        width: 171
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6da09893f9ccc438f2f1e05284fa15
+      internalID: 292954717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_62
+      rect:
+        serializedVersion: 2
+        x: 5175
+        y: 2003
+        width: 205
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593f45b6a8ef9874284959464e6230ac
+      internalID: 1752927325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_63
+      rect:
+        serializedVersion: 2
+        x: 5431
+        y: 2003
+        width: 352
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ed87e8f93562f44b71b4971114d890
+      internalID: 138645247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_64
+      rect:
+        serializedVersion: 2
+        x: 5910
+        y: 1999
+        width: 283
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d615523bae60074a97c464dde244732
+      internalID: -340525391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_65
+      rect:
+        serializedVersion: 2
+        x: 6292
+        y: 1996
+        width: 353
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ee6828f86338d40aab2312db9399a5
+      internalID: -1230250518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_66
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 971
+        width: 1924
+        height: 649
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f579e92a1b7ae44f9cc003ee31e9272
+      internalID: 1433252891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_67
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 1070
+        width: 297
+        height: 666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b299d83fae65d0643a6c7e458ebf7a11
+      internalID: -414577966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_68
+      rect:
+        serializedVersion: 2
+        x: 2991
+        y: 1070
+        width: 297
+        height: 666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519c9c6d5a719bc49b9fd2adbc3b476a
+      internalID: 34263090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_69
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 1070
+        width: 294
+        height: 666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de1e7b77463f3143ae93f8a6121cb1a
+      internalID: 251246515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_70
+      rect:
+        serializedVersion: 2
+        x: 4071
+        y: 1070
+        width: 294
+        height: 772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834b1b1e224ee6e4d9e2363be1f29ac9
+      internalID: 1820028157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_71
+      rect:
+        serializedVersion: 2
+        x: 4669
+        y: 1049
+        width: 294
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77791f7620cedcf4abf91b8a3be0fb47
+      internalID: 18622384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_72
+      rect:
+        serializedVersion: 2
+        x: 5209
+        y: 1070
+        width: 294
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece2925eb8b72ce40a4d3213d8ee2e42
+      internalID: 453028520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_73
+      rect:
+        serializedVersion: 2
+        x: 5746
+        y: 1049
+        width: 294
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fc3adbfbee1824aa452876899780ad
+      internalID: 777879591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_74
+      rect:
+        serializedVersion: 2
+        x: 5640
+        y: 584
+        width: 403
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ee3b889d766904c8da20f5ee0d67dd
+      internalID: 1800489792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_75
+      rect:
+        serializedVersion: 2
+        x: 6375
+        y: 670
+        width: 468
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de76ebc4e0255e44b3a53b658e6ccba
+      internalID: 472417405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_76
+      rect:
+        serializedVersion: 2
+        x: 6457
+        y: 584
+        width: 143
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634b383db9374494987dd26477ef5c8e
+      internalID: 1853302719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_77
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 280
+        width: 1012
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46451255ee90b98408f6156fa440dcd7
+      internalID: -352647232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_78
+      rect:
+        serializedVersion: 2
+        x: 4905
+        y: 468
+        width: 143
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a03ed608a46e642b6400f6e5f4ab19
+      internalID: -493191874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_79
+      rect:
+        serializedVersion: 2
+        x: 5722
+        y: 533
+        width: 85
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35dd3a0400aa66c40999ff7a3960ca5f
+      internalID: -1084351860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_80
+      rect:
+        serializedVersion: 2
+        x: 3903
+        y: 328
+        width: 534
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5895a942fcdbe494d9215d0eaaf4c5d3
+      internalID: 1955178117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_81
+      rect:
+        serializedVersion: 2
+        x: 4748
+        y: 328
+        width: 529
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f135dc4da0267742823ecdb0b32126b
+      internalID: -1666224942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_82
+      rect:
+        serializedVersion: 2
+        x: 5571
+        y: 328
+        width: 533
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c454eef07a16343942c6c724b444c8
+      internalID: -1783267843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_83
+      rect:
+        serializedVersion: 2
+        x: 6344
+        y: 328
+        width: 530
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9025c03b61cf37d4181c08e6537a2305
+      internalID: -828947717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_84
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 3798
+        width: 413
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11fa1c72f37e9043a4b2b6c5db9d16b
+      internalID: -195241266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_85
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 3795
+        width: 492
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d11d28ad3ec89c42bd74b6d3625ba66
+      internalID: -988079268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_86
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 3792
+        width: 457
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc358cdd4f6f124bafc40678181035f
+      internalID: 1164893930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Junto_87
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 3786
+        width: 541
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfcb887b4b2cd643ba09edeb9bf7911
+      internalID: 1030034851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pixel Art Junto_0: -1837557420
+      Pixel Art Junto_1: -467838949
+      Pixel Art Junto_10: -584487589
+      Pixel Art Junto_11: -846354453
+      Pixel Art Junto_12: -1667221188
+      Pixel Art Junto_13: -44822302
+      Pixel Art Junto_14: -554236239
+      Pixel Art Junto_15: -1456565681
+      Pixel Art Junto_16: -1430696665
+      Pixel Art Junto_17: 1667255370
+      Pixel Art Junto_18: -390625
+      Pixel Art Junto_19: -1526590181
+      Pixel Art Junto_2: -1577165990
+      Pixel Art Junto_20: 1003798334
+      Pixel Art Junto_21: 136890554
+      Pixel Art Junto_22: -1041053022
+      Pixel Art Junto_23: -768449476
+      Pixel Art Junto_24: 1376907045
+      Pixel Art Junto_25: -1094708704
+      Pixel Art Junto_26: -1974065288
+      Pixel Art Junto_27: -943796294
+      Pixel Art Junto_28: -1892818211
+      Pixel Art Junto_29: 259561
+      Pixel Art Junto_3: 1857808987
+      Pixel Art Junto_30: -746717902
+      Pixel Art Junto_31: -1097351823
+      Pixel Art Junto_32: -995446842
+      Pixel Art Junto_33: 1410240403
+      Pixel Art Junto_34: -1994613049
+      Pixel Art Junto_35: -1779569108
+      Pixel Art Junto_36: 948913341
+      Pixel Art Junto_37: 932129605
+      Pixel Art Junto_38: -1959717405
+      Pixel Art Junto_39: 1480719224
+      Pixel Art Junto_4: 632328136
+      Pixel Art Junto_40: -771228873
+      Pixel Art Junto_41: -315525650
+      Pixel Art Junto_42: -1822282724
+      Pixel Art Junto_43: -1412602905
+      Pixel Art Junto_44: -257450872
+      Pixel Art Junto_45: 1706251047
+      Pixel Art Junto_46: 866674124
+      Pixel Art Junto_47: -675175049
+      Pixel Art Junto_48: -794805001
+      Pixel Art Junto_49: 585684176
+      Pixel Art Junto_5: -1976915139
+      Pixel Art Junto_50: -1614950778
+      Pixel Art Junto_51: -1203629660
+      Pixel Art Junto_52: 253345279
+      Pixel Art Junto_53: 1595028058
+      Pixel Art Junto_54: -937858318
+      Pixel Art Junto_55: -1341492948
+      Pixel Art Junto_56: -156288505
+      Pixel Art Junto_57: 1378688257
+      Pixel Art Junto_58: -1323618736
+      Pixel Art Junto_59: -2031694477
+      Pixel Art Junto_6: -230470847
+      Pixel Art Junto_60: 1283814618
+      Pixel Art Junto_61: 292954717
+      Pixel Art Junto_62: 1752927325
+      Pixel Art Junto_63: 138645247
+      Pixel Art Junto_64: -340525391
+      Pixel Art Junto_65: -1230250518
+      Pixel Art Junto_66: 1433252891
+      Pixel Art Junto_67: -414577966
+      Pixel Art Junto_68: 34263090
+      Pixel Art Junto_69: 251246515
+      Pixel Art Junto_7: -353998119
+      Pixel Art Junto_70: 1820028157
+      Pixel Art Junto_71: 18622384
+      Pixel Art Junto_72: 453028520
+      Pixel Art Junto_73: 777879591
+      Pixel Art Junto_74: 1800489792
+      Pixel Art Junto_75: 472417405
+      Pixel Art Junto_76: 1853302719
+      Pixel Art Junto_77: -352647232
+      Pixel Art Junto_78: -493191874
+      Pixel Art Junto_79: -1084351860
+      Pixel Art Junto_8: 1026089435
+      Pixel Art Junto_80: 1955178117
+      Pixel Art Junto_81: -1666224942
+      Pixel Art Junto_82: -1783267843
+      Pixel Art Junto_83: -828947717
+      Pixel Art Junto_84: -195241266
+      Pixel Art Junto_85: -988079268
+      Pixel Art Junto_86: 1164893930
+      Pixel Art Junto_87: 1030034851
+      Pixel Art Junto_9: 1219956886
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
